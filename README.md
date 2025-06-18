@@ -117,7 +117,7 @@
 
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
